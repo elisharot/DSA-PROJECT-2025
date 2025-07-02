@@ -57,7 +57,7 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
    ### Data Model
     Table	Description	Key Relationships
     Employee	Cleaned HR data	merged to Bonus table via Department and Rating
-    Bonus Rules	Lookup table with bonus percentages	Used to compute Bonus Amount
+    Bonus Rules	Lookup table with bonus percentages	Used to compute Bonus Amount.
 
 
 
