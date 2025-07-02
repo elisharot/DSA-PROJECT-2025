@@ -102,11 +102,13 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
 - Bonus payments align well with performance ratings
 - Most valuable performers found in 
 ### Recommendations
-      -Address Pay Gaps: Notable disparities in gender, department and region.
+         -Review Salary Equity: Ensure compensation is perform and role-driven, not biased by gender or region
 
        -Performance Reviews Needed: High count of “Average” or “Undisclosed” ratings
 
-       -Improve Salary Compliance: Non-compliance in       [region/department]
+       -Improve Salary Compliance
+
+       -Local review: Assess productivityto head count ratio  in Kaduna vs Lagos/Abuja.
 
         -Consider Gender Diversity Plans: Certain regions are heavily skewed
 
