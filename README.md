@@ -100,7 +100,8 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
 - **Pay gap** observed Unspeciied genders have higher average of salary pay than others.
 - 68.54% of employees are  **below $90,000** threshold and Mr.Gamma cannot meet up with the minimum wage.
 - Bonus payments align well with performance ratings
-- Most valuable performers found in 
+- Most valuable performers found in
+
 ### Recommendations
          -Review Salary Equity: Ensure compensation is perform and role-driven, not biased by gender or region
 
