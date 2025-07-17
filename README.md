@@ -119,8 +119,8 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
    
     -Region with Highest Bonus Amount	Region= Kaduna($810.23k)
     
-     -Average Bonus per Employee= $1361.55 
-https://github.com/elisharot/DSA-PROJECT-2025/blob/61ac20ac9c5351d341147a7ca352fee73ace5f9b/palmoria%20pc.png
+     -Average Bonus per Employee= $1361.55
+     
      ####  Tools Used
 - Power BI (Data Cleaning, Relationships, Visualizations)
 - GitHub (Project documentation)
