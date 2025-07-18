@@ -130,16 +130,12 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
 - GitHub (Project documentation)
 
 
-
-  -Contact: 08100561918
   
   Author: Rotdang Yilgen Elisha
   
 Email: rotdangelisha@gmail.com
 
-Location: Apo Dutse, FCT Abuja
-
-https://www.linkedin.com/posts/rotdang-elisha-5b916a2b7_i-want-to-express-my-heartfelt-gratitude-activity-7343671369345216512-2uPp?utm_source=share&utm_medium=member_android&rcm=ACoAAEwFKN0B7zgJJz3F9bXm1SKBWE4CANXhmYQ
+-Contact: https://www.linkedin.com/posts/rotdang-elisha-5b916a2b7_i-want-to-express-my-heartfelt-gratitude-activity-7343671369345216512-2uPp?utm_source=share&utm_medium=member_android&rcm=ACoAAEwFKN0B7zgJJz3F9bXm1SKBWE4CANXhm
 
 
 
