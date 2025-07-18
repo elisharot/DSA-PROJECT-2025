@@ -99,8 +99,11 @@ Identify gender equality issues and salary distribution trends in the Palmoria G
 - **Gender imbalance** Most of departments have gender imbalance 
 - **Pay gap** observed Unspeciied genders have higher average of salary pay than others.
 - 68.54% of employees are  **below $90,000** threshold and Mr.Gamma cannot meet up with the minimum wage.
-- Bonus payments align well with performance ratings
+- Bonus payments align well with performance ratings.
+   ## Data Visualization
   <img width="1230" height="702" alt="image" src="https://github.com/user-attachments/assets/3aedf5fb-c2fe-4c98-b907-295ac5318480" />
+  <img width="1326" height="740" alt="image" src="https://github.com/user-attachments/assets/f717e866-2f05-486d-8e1e-74e601e94dbc" />
+
 
 
 ### Recommendations
